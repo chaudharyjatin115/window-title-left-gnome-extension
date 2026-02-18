@@ -1,0 +1,12 @@
+.window-title-container {
+    padding-left: 8px;
+    padding-right: 10px;
+}
+
+.window-title-icon {
+    margin-right: 6px;
+}
+
+.window-title-left {
+    opacity: 0.9;
+}
