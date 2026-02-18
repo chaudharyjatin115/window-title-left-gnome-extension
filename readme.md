@@ -1,0 +1,1 @@
+This gnome extension replaces the Activities pill with name of currently running app and it's icon 
