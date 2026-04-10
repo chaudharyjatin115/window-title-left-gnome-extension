@@ -2,6 +2,6 @@
   "uuid": "window-title-left@chaudharyjatin115",
   "name": "Window Title Left",
   "description": "Shows active window title on the left side of top bar",
-  "shell-version": ["49"],
+  "shell-version": ["49","50"],
   "version": 1
 }
